@@ -5,5 +5,6 @@ export default function NotFoundPage() {
     <div>
       <h1>Hey that's not around...</h1>
     </div>
+    
   );
 }
